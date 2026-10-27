@@ -83,7 +83,7 @@ Tools and Libraries
   How to Run
 
 1. Put iris.csv in the project folder.
-2. Open task1_preprocessing.ipynb in Jupyter or VS Code.
-3. Run the notebook cells from top to bottom.
+2. Open preprocessing.py VS Code.
+3. Run the file from top to bottom.
 4. Record the findings and any preprocessing steps that were
    unnecessary for this dataset.
